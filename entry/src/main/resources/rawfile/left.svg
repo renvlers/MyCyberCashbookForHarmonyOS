@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 12 20"
+     id="Left">
+    <g
+        fill="none"
+        fill-rule="evenodd">
+        <g
+            fill="#fdfdfd"
+            fill-rule="nonzero"
+            transform="translate(-14 -8)"
+            class="color000000 svgShape">
+            <g
+                transform="translate(14 8)"
+                fill="#000000"
+                class="color000000 svgShape">
+                <path
+                    d="M5.909 10.681a1.987 1.987 0 0 1-.278-.732c.004-.253.103-.496.278-.679l5.517-5.732c.761-.81.766-2.072.01-2.887l-.028-.03A1.959 1.959 0 0 0 8.554.613L.287 9.226A1.08 1.08 0 0 0 0 9.949c.044.275.141.538.287.775l8.267 8.665a1.959 1.959 0 0 0 2.854-.012l.028-.036a2.133 2.133 0 0 0-.01-2.9l-5.517-5.76z"
+                    fill="#fdfdfd"
+                    class="color000000 svgShape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

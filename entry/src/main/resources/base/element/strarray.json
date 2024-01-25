@@ -1,0 +1,74 @@
+{
+  "strarray": [
+    {
+      "name": "income_category",
+      "value": [
+        {
+          "value": "Choose"
+        },
+        {
+          "value": "Salary/Wages"
+        },
+        {
+          "value": "Part-time Income"
+        },
+        {
+          "value": "Investment Earnings"
+        },
+        {
+          "value": "Business Income"
+        },
+        {
+          "value": "Gifts/Red Envelops"
+        },
+        {
+          "value": "Other Income"
+        }
+      ]
+    },
+    {
+      "name": "expense_category",
+      "value": [
+        {
+          "value": "Choose"
+        },
+        {
+          "value": "Clothes"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Housing"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Health"
+        },
+        {
+          "value": "Entertainment"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Debt Repayment"
+        },
+        {
+          "value": "Investments"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Charitable Donations"
+        },
+        {
+          "value": "Other Expenses"
+        }
+      ]
+    }
+  ]
+}

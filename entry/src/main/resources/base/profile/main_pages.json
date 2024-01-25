@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/NewBill",
+    "pages/Settings",
+    "pages/Statistics",
+    "pages/EditBill",
+    "pages/About"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "my_cashbook",
+      "value": "我的账单"
+    },
+    {
+      "name": "monthly_total_amount",
+      "value": "月收支总额："
+    },
+    {
+      "name": "daily_total_amount",
+      "value": "日收支总额："
+    },
+    {
+      "name": "category",
+      "value": "类别"
+    },
+    {
+      "name": "income",
+      "value": "收入"
+    },
+    {
+      "name": "expense",
+      "value": "支出"
+    },
+    {
+      "name": "salary",
+      "value": "工资薪金"
+    },
+    {
+      "name": "parttime_income",
+      "value": "兼职收入"
+    },
+    {
+      "name": "investment_earnings",
+      "value": "投资收益"
+    },
+    {
+      "name": "business_income",
+      "value": "业务收入"
+    },
+    {
+      "name": "gifts",
+      "value": "礼金/红包"
+    },
+    {
+      "name": "other_income",
+      "value": "其他收入"
+    },
+    {
+      "name": "clothes",
+      "value": "服装"
+    },
+    {
+      "name": "food",
+      "value": "食品"
+    },
+    {
+      "name": "housing",
+      "value": "住房"
+    },
+    {
+      "name": "transportation",
+      "value": "交通"
+    },
+    {
+      "name": "health",
+      "value": "健康"
+    },
+    {
+      "name": "entertainment",
+      "value": "娱乐"
+    },
+    {
+      "name": "education",
+      "value": "教育"
+    },
+    {
+      "name": "debt_repayment",
+      "value": "债务还款"
+    },
+    {
+      "name": "investments",
+      "value": "投资"
+    },
+    {
+      "name": "insurance",
+      "value": "保险"
+    },
+    {
+      "name": "charitable_donations",
+      "value": "慈善捐赠"
+    },
+    {
+      "name": "other_expenses",
+      "value": "其他支出"
+    },
+    {
+      "name": "new_bill",
+      "value": "记一笔"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "statistics",
+      "value": "统计"
+    },
+    {
+      "name": "calendar",
+      "value": "日历"
+    },
+    {
+      "name": "time",
+      "value": "时间"
+    },
+    {
+      "name": "usage",
+      "value": "用途或来源"
+    },
+    {
+      "name": "amount",
+      "value": "金额"
+    },
+    {
+      "name": "ok",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "language",
+      "value": "语言"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "clear_all_data",
+      "value": "清除所有数据"
+    },
+    {
+      "name": "clear_warning",
+      "value": "警告！此操作不可逆"
+    },
+    {
+      "name": "clear_ask",
+      "value": "您确定要清除所有数据吗？"
+    },
+    {
+      "name": "income_or_expense",
+      "value": "收入/支出"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "edit_bill",
+      "value": "编辑账单"
+    },
+    {
+      "name": "language_changing_tip",
+      "value": "暂不支持 App 内修改语言，如需修改请前往系统设置。"
+    },
+    {
+      "name": "delete_ask",
+      "value": "您确定要删除吗？"
+    },
+    {
+      "name": "delete_warning",
+      "value": "这将不可恢复"
+    },
+    {
+      "name": "bill_info",
+      "value": "账单信息"
+    },
+    {
+      "name": "date",
+      "value": "日期"
+    },
+    {
+      "name": "income_category",
+      "value": "收入类别"
+    },
+    {
+      "name": "expense_category",
+      "value": "支出类别"
+    },
+    {
+      "name": "choose",
+      "value": "请选择"
+    },
+    {
+      "name": "invalid_input",
+      "value": "金额输入无效"
+    },
+    {
+      "name": "category_not_selected",
+      "value": "未选择类别"
+    },
+    {
+      "name": "usage_cannot_be_empty",
+      "value": "用途或来源不能为空"
+    },
+    {
+      "name": "successfully_created",
+      "value": "创建成功"
+    },
+    {
+      "name": "successfully_edited",
+      "value": "编辑成功"
+    },
+    {
+      "name": "successfully_deleted",
+      "value": "删除成功"
+    },
+    {
+      "name": "successfully_cleared",
+      "value": "清除成功"
+    },
+    {
+      "name": "version",
+      "value": "版本"
+    },
+    {
+      "name": "app_name",
+      "value": "App 名称"
+    },
+    {
+      "name": "cyber_cashbook",
+      "value": "赛博记账本"
+    },
+    {
+      "name": "app_info",
+      "value": "App 信息"
+    },
+    {
+      "name": "weekly_statistics",
+      "value": "本周统计"
+    },
+    {
+      "name": "monthly_statistics",
+      "value": "本月统计"
+    },
+    {
+      "name": "yearly_statistics",
+      "value": "本年统计"
+    },
+    {
+      "name": "weekly_profit_and_loss",
+      "value": "本周总盈亏"
+    },
+    {
+      "name": "monthly_profit_and_loss",
+      "value": "本月总盈亏"
+    },
+    {
+      "name": "yearly_profit_and_loss",
+      "value": "本年总盈亏"
+    },
+    {
+      "name": "weekly_income_proportion",
+      "value": "本周收入来源占比"
+    },
+    {
+      "name": "monthly_income_proportion",
+      "value": "本月收入来源占比"
+    },
+    {
+      "name": "yearly_income_proportion",
+      "value": "本年收入来源占比"
+    },
+    {
+      "name": "weekly_expense_proportion",
+      "value": "本周支出用途占比"
+    },
+    {
+      "name": "monthly_expense_proportion",
+      "value": "本月支出用途占比"
+    },
+    {
+      "name": "yearly_expense_proportion",
+      "value": "本年支出用途占比"
+    }
+  ]
+}

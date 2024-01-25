@@ -1,0 +1,312 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "my_cashbook",
+      "value": "My Cashbook"
+    },
+    {
+      "name": "monthly_total_amount",
+      "value": "Monthly total amount: "
+    },
+    {
+      "name": "daily_total_amount",
+      "value": "Daily total amount: "
+    },
+    {
+      "name": "category",
+      "value": "Category"
+    },
+    {
+      "name": "income",
+      "value": "Income"
+    },
+    {
+      "name": "expense",
+      "value": "Expense"
+    },
+    {
+      "name": "salary",
+      "value": "Salary/Wages"
+    },
+    {
+      "name": "parttime_income",
+      "value": "Part-time Income"
+    },
+    {
+      "name": "investment_earnings",
+      "value": "Investment Earnings"
+    },
+    {
+      "name": "business_income",
+      "value": "Business Income"
+    },
+    {
+      "name": "gifts",
+      "value": "Gifts/Red Envelops"
+    },
+    {
+      "name": "other_income",
+      "value": "Other Income"
+    },
+    {
+      "name": "clothes",
+      "value": "Clothes"
+    },
+    {
+      "name": "food",
+      "value": "Food"
+    },
+    {
+      "name": "housing",
+      "value": "Housing"
+    },
+    {
+      "name": "transportation",
+      "value": "Transportation"
+    },
+    {
+      "name": "health",
+      "value": "Health"
+    },
+    {
+      "name": "entertainment",
+      "value": "Entertainment"
+    },
+    {
+      "name": "education",
+      "value": "Education"
+    },
+    {
+      "name": "debt_repayment",
+      "value": "Debt Repayment"
+    },
+    {
+      "name": "investments",
+      "value": "Investments"
+    },
+    {
+      "name": "insurance",
+      "value": "Insurance"
+    },
+    {
+      "name": "charitable_donations",
+      "value": "Charitable Donations"
+    },
+    {
+      "name": "other_expenses",
+      "value": "Other Expenses"
+    },
+    {
+      "name": "new_bill",
+      "value": "New Bill"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "statistics",
+      "value": "Statistics"
+    },
+    {
+      "name": "calendar",
+      "value": "Calendar"
+    },
+    {
+      "name": "time",
+      "value": "Time"
+    },
+    {
+      "name": "usage",
+      "value": "Usage or Source"
+    },
+    {
+      "name": "amount",
+      "value": "Amount"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "language",
+      "value": "Language"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "clear_all_data",
+      "value": "Clear all data"
+    },
+    {
+      "name": "clear_warning",
+      "value": "WARNING! This operation is irreversible"
+    },
+    {
+      "name": "clear_ask",
+      "value": "Are you sure to clear all data?"
+    },
+    {
+      "name": "income_or_expense",
+      "value": "Income/Expense"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "edit_bill",
+      "value": "Edit Bill"
+    },
+    {
+      "name": "language_changing_tip",
+      "value": "In-App language changing is not supported now. Please go to System Settings to chang language if needed."
+    },
+    {
+      "name": "delete_ask",
+      "value": "Are you sure to delete it?"
+    },
+    {
+      "name": "delete_warning",
+      "value": "This can't be recovered"
+    },
+    {
+      "name": "bill_info",
+      "value": "Bill info"
+    },
+    {
+      "name": "date",
+      "value": "Date"
+    },
+    {
+      "name": "income_category",
+      "value": "Income category"
+    },
+    {
+      "name": "expense_category",
+      "value": "Expense category"
+    },
+    {
+      "name": "choose",
+      "value": "Choose"
+    },
+    {
+      "name": "invalid_input",
+      "value": "Invalid amount input"
+    },
+    {
+      "name": "category_not_selected",
+      "value": "Category is not selected"
+    },
+    {
+      "name": "usage_cannot_be_empty",
+      "value": "Usage or source can't be empty"
+    },
+    {
+      "name": "successfully_created",
+      "value": "Successfully created"
+    },
+    {
+      "name": "successfully_edited",
+      "value": "Successfully edited"
+    },
+    {
+      "name": "successfully_deleted",
+      "value": "Successfully deleted"
+    },
+    {
+      "name": "successfully_cleared",
+      "value": "Successfully cleared"
+    },
+    {
+      "name": "version",
+      "value": "Version"
+    },
+    {
+      "name": "app_name",
+      "value": "App name"
+    },
+    {
+      "name": "cyber_cashbook",
+      "value": "Cyber Cashbook"
+    },
+    {
+      "name": "app_info",
+      "value": "App info"
+    },
+    {
+      "name": "weekly_statistics",
+      "value": "Weekly Statistics"
+    },
+    {
+      "name": "monthly_statistics",
+      "value": "Monthly Statistics"
+    },
+    {
+      "name": "yearly_statistics",
+      "value": "Yearly Statistics"
+    },
+    {
+      "name": "weekly_profit_and_loss",
+      "value": "Weekly profit and loss"
+    },
+    {
+      "name": "monthly_profit_and_loss",
+      "value": "Monthly profit and loss"
+    },
+    {
+      "name": "yearly_profit_and_loss",
+      "value": "Yearly profit and loss"
+    },
+    {
+      "name": "weekly_income_proportion",
+      "value": "Weekly income proportion"
+    },
+    {
+      "name": "monthly_income_proportion",
+      "value": "Monthly income proportion"
+    },
+    {
+      "name": "yearly_income_proportion",
+      "value": "Yearly income proportion"
+    },
+    {
+      "name": "weekly_expense_proportion",
+      "value": "Weekly expense proportion"
+    },
+    {
+      "name": "monthly_expense_proportion",
+      "value": "Monthly expense proportion"
+    },
+    {
+      "name": "yearly_expense_proportion",
+      "value": "Yearly expense proportion"
+    }
+  ]
+}

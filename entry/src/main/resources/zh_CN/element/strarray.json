@@ -1,0 +1,74 @@
+{
+  "strarray": [
+    {
+      "name": "income_category",
+      "value": [
+        {
+          "value": "请选择"
+        },
+        {
+          "value": "工资薪金"
+        },
+        {
+          "value": "兼职收入"
+        },
+        {
+          "value": "投资收益"
+        },
+        {
+          "value": "业务收入"
+        },
+        {
+          "value": "礼金/红包"
+        },
+        {
+          "value": "其他收入"
+        }
+      ]
+    },
+    {
+      "name": "expense_category",
+      "value": [
+        {
+          "value": "请选择"
+        },
+        {
+          "value": "服装"
+        },
+        {
+          "value": "食品"
+        },
+        {
+          "value": "住房"
+        },
+        {
+          "value": "交通"
+        },
+        {
+          "value": "健康"
+        },
+        {
+          "value": "娱乐"
+        },
+        {
+          "value": "教育"
+        },
+        {
+          "value": "债务还款"
+        },
+        {
+          "value": "投资"
+        },
+        {
+          "value": "保险"
+        },
+        {
+          "value": "慈善捐赠"
+        },
+        {
+          "value": "其他支出"
+        }
+      ]
+    }
+  ]
+}
